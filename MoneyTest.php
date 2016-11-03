@@ -1,10 +1,9 @@
 <?php
 
-use PHPUnit\Framework\TestCase;
 
 require './Money.php';
 
-class MoneyTest extends TestCase
+class MoneyTest extends PHPUnit_Framework_TestCase
 {
     // ...
 
